@@ -10,7 +10,7 @@ public class Resource {
     private String name;
     private int quantity;
 
-    public Resource() {}
+    public Resource() { }
     public Resource(String name, int quantity) {
         this.name = name;
         this.quantity = quantity;
